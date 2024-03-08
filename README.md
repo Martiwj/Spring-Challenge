@@ -1,3 +1,3 @@
-# MAPS Spring CHallenge
+# MAPS Spring Challenge
 
 Mer info kommer
