@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+h1{
+  color: #7FBAD6
+}
 .Maps-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,7 +28,7 @@
 
 .Repo-link {
   margin-top: 10%;
-  color: #61dafb;
+  color: #7FBAD6;
 }
 
 @keyframes Maps-logo-spin {

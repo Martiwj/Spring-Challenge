@@ -11,7 +11,7 @@ function App() {
         <img src={logo} className="Maps-logo" alt="logo" />
         <a
           className="Repo-link"
-          href="https://reactjs.org"
+          href="https://github.com/Martiwj/Spring-Challenge.git"
           target="_blank"
           rel="noopener noreferrer"
         >
