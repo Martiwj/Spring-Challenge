@@ -1,21 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+const logo = '/logo-lightmode.png';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>
+          MAPS Spring Challenge
+        </h1>
+        <img src={logo} className="Maps-logo" alt="logo" />
         <a
-          className="App-link"
+          className="Repo-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Spring Challenge repo
         </a>
       </header>
     </div>
