@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MAPS Spring Challenge",
+  "name": "Create MAPS SC site",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo-lightmode.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo-lightmode.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo-lightmode.png",
       "type": "image/png",
       "sizes": "512x512"
     }
